@@ -3,7 +3,7 @@
 ![logo](https://github.com/SirRenix/armbian-bootlogo/assets/7069603/e441757a-f4c4-4e69-8794-d24ff0427f10)
 ![IMG_20240216_001623](https://github.com/SirRenix/armbian-bootlogo/assets/7069603/144cc78b-36f0-424a-84b7-f48275288be0)
 
-# Armbian BootSplash Creator escpecially for Bigtreetech BTT Pi
+# Armbian BootSplash Creator especially for Bigtreetech BTT Pi
 
 This simple script with bootsplash repacker are to assist users trying to replace their stock boot splash logos.
 
